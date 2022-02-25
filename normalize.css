@@ -348,7 +348,7 @@ template {
   display: none;
 }
 
-img{ float:right;
+img{ float:left;
 width:15%;}
 
 h1{ font-family: 'Roboto', sans-serif;
