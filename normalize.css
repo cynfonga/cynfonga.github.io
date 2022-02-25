@@ -348,8 +348,8 @@ template {
   display: none;
 }
 
-img{ float:left;
-width:25%;}
+img{ float:right;
+width:15%;}
 
 h1{ font-family: 'Roboto', sans-serif;
 background-color:#9F5656;}
