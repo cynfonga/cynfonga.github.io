@@ -357,3 +357,7 @@ background-color:#9F5656;}
 .bottom{background-color:#9F5656 ;}
 
 p{ font-family: 'Ubuntu', sans-serif;}
+.grid{display:grid;
+ grid-template-columns:1fr 1fr 1fr;
+align-items: center;
+grid-gap:5px;}
